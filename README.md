@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ukt1997" alt="ukt1997" /></a> </p>
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Kafka**
 
 - 💬 Ask me about **Python , Apache Beam, Apache Spark, Google Cloud**
 
